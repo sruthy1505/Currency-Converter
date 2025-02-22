@@ -95,10 +95,6 @@ mvn spring-boot:run
   "error": "Missing required parameters: from, to, amount"
 }
 ```
-
-## API Documentation
-Swagger UI: [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-
 ## Testing
 Run unit tests:
 ```bash
